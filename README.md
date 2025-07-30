@@ -1,4 +1,6 @@
 Hi, I'm Meral 👋
+
+
 🎓 Software Engineering Student at AAST
 💻 I create secure, scalable applications using Flutter, JavaFX, Python, and modern web technologies.
 🎨 Skilled in Front-End Development, UI/UX Design, and building engaging mobile & web experiences.
