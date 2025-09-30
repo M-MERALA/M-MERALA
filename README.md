@@ -1,6 +1,6 @@
 # Hi, I'm Meral 👋  
 
-🎓 **Software Engineering Student** at AASTMT  
+🎓 **Software Engineering Student** at The Arab Academy for Science, Technology and Maritime Transport (AASTMT)  
 💻 I create **secure, scalable applications** using Flutter, JavaFX, Python, and modern web technologies.  
 🎨 Skilled in **Front-End Development, UI/UX Design, and building engaging mobile & web experiences**.  
 🔐 **Focused on Cybersecurity**, with **hands-on experience in Web Exploitation, Penetration Testing, and secure software development**.  
